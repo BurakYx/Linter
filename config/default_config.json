@@ -1,0 +1,7 @@
+{
+    "max_line_length": 80,
+    "indentation": 4,
+    "naming_convention": "snake_case",
+    "max_functions_per_file": 10,
+    "enable_auto_fix": true
+}
